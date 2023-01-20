@@ -11,3 +11,5 @@ Three notebooks are included which feature the following content.
 * `plot functions.ipynb` includes code for plotting the results of our report.
 
 In the folder `results.zip` we find the results used to generate the figures in our paper.
+
+The simulations were run on linux with the conda enviroment specified in the file `environment.yml` 
