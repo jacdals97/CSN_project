@@ -196,4 +196,4 @@ dependencies:
     - scipy==1.9.2
     - tabulate==0.9.0
     - tqdm==4.64.1
-prefix: /home/jacdals97/anaconda3/envs/csn_lab
+
